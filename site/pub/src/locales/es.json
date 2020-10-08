@@ -1,0 +1,187 @@
+{
+  "app": {
+    "name": "iDia",
+    "version": "v1.0",
+    "short_description": "Aplicación de Criterios Diagnósticos",
+    "description": "Una App de soporte para la clasificación del DSM-IV y los criteros diagnósticos"
+  },
+  "forms": {
+    "contact": {
+      "fields": {
+        "Write your message here": "Su mensaje"
+      }
+    }
+  },
+  "actions": {
+    "Send": "Enviar",
+    "Read more": "Leer más",
+    "Login button short text": "Acceder",
+    "Sign up": "Registro",
+    "Create account": "Crear cuenta",
+    "Close": "Cerrar"
+  },
+  "sections": {
+    "products": {
+      "title": "Productos"
+    },
+    "cards": {
+      "title": "Presentación",
+      "one": {
+        "title": "Gratuita",
+        "text": "Totalmente gratuita, sin letras pequeñas, sin limitaciones. Para todos, y muy especialmente dirigida a:",
+        "badges": {
+          "one": "Centros de salud",
+          "two": "Profesionales independientes",
+          "three": "Sin fines de lucro"
+        }
+      },
+      "two": {
+        "title": "Sólida",
+        "text": "Fundamentada en el libro \"DSM-IV Breviario. Criterios diagnósticos\" {0}",
+        "badges": {
+          "one": "Respaldada",
+          "two": "Ciencia",
+          "three": "Tecnología"
+        }
+      },
+      "three": {
+        "title": "Experiencia",
+        "text": "Diseñada y desarrollada por alguien con más de diez años de experiencia en Ciencia y Tecnología.",
+        "badges": {
+          "one": "Consultor y evaluador",
+          "two": "Arquitecto de soluciones",
+          "three": "Investigación y desarrollo tecnológico"
+        }
+      }
+    },
+    "features": {
+      "title": "Características",
+      "text": "Algunas de las principales características de iDia son las siguientes:",
+      "list": {
+        "one": "Lista para el futuro",
+        "two": "Inteligencia Artificial",
+        "three": "Multiplataforma"
+      }
+    },
+    "RDI": {
+      "title": "I+D+I",
+      "what is": "¿Qué es I+D+I?",
+      "research": {
+        "title": "Investigación",
+        "text": "De acuerdo con [{0}], la Investigación (y también el desarrollo experimental) involucra un trabajo sistemático y creativo que se realiza con el objetivo de impulsar y aumentar el conocimiento (incluyendo conocimiento de la humanidad, cultura y sociedad) para crear nuevas aplicaciones del conocimiento disponible."
+      },
+      "dev": {
+        "title": "Desarrollo",
+        "text1": "En la misma fuente anterior [{0}] podemos encontrar la definición de Desarrollo como el empleo o traducción de los descubrimientos de la investigación u otro conocimiento a un plan o diseño para un nuevo producto, servicio o proceso, o para una mejora significativa de alguno de los existentes, ya sea para su uso o venta. Incluye la formulación conceptual, diseño, y pruebas de las alternativas, construcción de prototipos, y la operación de pruebas pilotos.",
+        "text2": "Note que las definiciones a las que se hace referencia en este documento a la vez son de otras fuentes, para este caso, la Definición de Desarrollo la encontrará en la página 4 de la referencia indicada."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "text1": "Es importante diferenciar entre las innovaciones y las invenciones. El proceso de invención incluye todos los aspectos conducentes a la creación de un nuevo concepto que es factible. Por otro lado, el proceso de innovación toma un nuevo concepto o combina varios nuevos o antiguos en un nuevo esquema (otra invención) y posteriormente lo desarrolla en un producto, que es aceptado en el mercado.",
+        "text2": "Aun cuando la frontera entre invención e innovación con frecuencia no es definida en la práctica, la distinción se concentra en la explotación de un nuevo concepto hacia la aplicación y el valor comercial."
+      }
+    },
+    "tech": {
+      "title": "Tecnologías",
+      "text": "iDia está diseñada y desarrollada con Tecnologías de punta, verificadas y validadas por la Comunidad mundial de Desarrolladores de apps, aceptadas y respaldas por organizaciones y que heredan y mejoran características de sus tecnologías predecesoras. Algunas de las tecnologías empleadas para el diseño y desarrollo de iDia son:",
+      "cards": {
+        "one": {
+          "title": "Vue.js",
+          "text": "Es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde el inicio para ser adoptado incrementalmente."
+        },
+        "two": {
+          "title": "Django",
+          "text": "Es un framework web de alto nivel que permite el desarrollo rápido de sitios web seguros y mantenibles. Desarrollado por programadores experimentados, Django se encarga de gran parte de las complicaciones del desarrollo web, por lo que puedes concentrarte en escribir tu aplicación sin necesidad de reinventar la rueda. Es gratuito y de código abierto, tiene una comunidad próspera y activa, una gran documentación y muchas opciones de soporte gratuito y de pago."
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "text": "<TEXT Testimonios>",
+      "one": {
+        "name": "ABC",
+        "role": "Role 1",
+        "twitter": "twitter",
+        "fb": "fb"
+      },
+      "two": {
+        "name": "123",
+        "role": "Role 2",
+        "twitter": "twitter",
+        "fb": "fb"
+      },
+      "three": {
+        "name": "XYZ",
+        "role": "Role 3",
+        "twitter": "twitter",
+        "fb": "fb"
+      },
+      "four": {
+        "name": "999",
+        "role": "Role 4",
+        "twitter": "twitter",
+        "fb": "fb"
+      }
+    },
+    "services": {
+      "title": "Servicios",
+      "text": "Algunos de los servicios por la app y/o también de manera asistencial, previo contacto, son los siguientes",
+      "one": {
+        "title": "Administración de recursos",
+        "text": "¿Tiene algún proyecto de Ciencia y/o Tecnología y desea apoyo en la administración de sus recursos? Recuerde que los recursos van más allá del dinero del que dispone para un proyecto o idea"
+      },
+      "two": {
+        "title": "Análisis de datos",
+        "text": "La ciencia y tecnología son grandes aliados para ayudarnos en el análisis de datos: realizar predicciones, compras, ventas, modas, ¡lo que pueda imaginar! Lo importante es saber por dónde comenzar"
+      },
+      "three": {
+        "title": "Soluciones integrales",
+        "text": "La combinación de Ciencia, Tecnología, Innovación y Experiencia son aliados para ayudarle a encontrar soluciones integrales a sus problemas Científicos y/o Tecnológicos"
+      }
+    },
+    "contact": {
+      "title": "Contacto",
+      "text": "¿Comentarios, dudas y/o sugerencias?"
+    },
+    "colab": {
+      "title": "Únase al futuro",
+      "subtitle": "Colabore, patrocine, provea, difunda",
+      "text": "Nuestra misión como humanos debe ser la de abrir nuevas puertas a las nuevas generaciones. Construir para el futuro, para un futuro mejor para todos",
+      "join us": "Unirse"
+    },
+    "providers": {
+      "title": "Proveedores"
+    },
+    "footer": {
+      "title": "Gracias por su visita",
+      "subtitle": "Para conocer más proyectos visite"
+    }
+  },
+  "Follow me on Twitter": "Sígueme en Twitter",
+  "Star me on Github": "Sigue mis proyectos en GitHub",
+  "Top": "Arriba",
+  "Sign in with": "Registrarse con",
+  "Or sign up with credentials": "Con correo electrónico",
+  "Or sign in with credentials": "Con correo electrónico",
+  "Remember me": "Mantener mi sesión abierta",
+  "Forgot password": "Olvidé mi contraseña",
+  "I agree with the": "Estoy de acuerdo con {article}",
+  "I agree": "Acepto",
+  "Privacy Policy": "Políticas de Privacidad",
+  "The female singular": "la",
+  "The female plural": "las",
+  "The male singular": "el",
+  "The male plural": "los",
+  "Full name": "Nombre completo",
+  "E-mail": "Correo electrónico",
+  "Name": "Nombre",
+  "Password": "Contraseña",
+  "Password strength": "Fortaleza de la contraseña",
+  "Retype password": "Introduzca nuevamente la contraseña",
+  "Cookie notice": "Este sitio usa cookies. Al continuar usando este sitio, está de acuerdo con su uso. Para saber más, incluyendo cómo controlar las cookies, consulte: {0}",
+  "Cookie policy": "Política de Cookies",
+  "Required field": "Campo requerido",
+  "Bad email addr": "Dirección de correo electrónico no válida",
+  "Loading": "Cargando",
+  "Specified email already exists": "La dirección de correo electrónico ya existe en nuestro sistema"
+}
